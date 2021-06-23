@@ -41,6 +41,7 @@ function getRandomWord(): string
         'доход',
         'заказ',
         'сказка',
+        'прадед',
         'автомобиль'
     ];
     $randomIndex = array_rand($words);
